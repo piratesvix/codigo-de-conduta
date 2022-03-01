@@ -13,14 +13,14 @@ Nosso objetivo é manter uma comunidade amigável, útil e segura para todos, in
 - Ser receptivo.
 - Ser gentil.
 - Respeitar o ponto de vista dos outros e ideais diferentes.
-- Ser solidário e respeitoso o próximo.
+- Ser solidário e respeitoso ao próximo.
 
 ## Comportamento não esperado
 
 Assédio pode incluir a lista abaixo mas não limitado à ela:
 
 - Comentários ofensivos, inadequados ou indesejáveis ao gênero, orientação sexual, deficiência, aparência física, tamanho do corpo, raça, etnia, nacionalidade, religião, idade ou qualquer outra categoria protegida pela lei.
-- Assédio visual, ex: imagens sexuais ou uso de linguagem sexual nos eventos da comunidade Docker
+- Assédio visual, ex: imagens sexuais ou uso de linguagem sexual nos eventos da comunidade
 - Desrespeito às diferentes opiniões
 - Intimidação deliberada, perseguição, gravação ou fotografia constrangedoras
 - Interrupção continua das palestras ou outros eventos
